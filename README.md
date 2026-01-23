@@ -6,13 +6,13 @@ A chronological log of my journey into the Python ecosystem. Covering everything
 
 | ID | Module / Topic | Focus Areas | Status |
 | :--- | :--- | :--- | :--- |
-| 01 | **Fundamentals** | Loops, Dictionaries, Classes, Exceptions | ✅ Complete |
-| 02 | **File Handling** | IO Operations & Text Processing | ✅ Complete |
-| 03 | **Mathematical Stuff**| NumPy (Creation, Slicing, Masking) | ✅ Complete |
-| 04 | **Data Visualization**| MatPlotLib (Bar, Scatter, Histogram) | ✅ Complete |
-| 05 | **Databases** | Pandas (Cleaning, Grouping, Merging) | ✅ Complete |
-| 06 | **GUI Development** | Tkinter Basics | ✅ Complete |
-| 07 | **Custom Modules** | Reusable Logic & Program Runs | ✅ Complete |
+| 01 | **Fundamentals** | Loops, Dictionaries, Classes, Exceptions | 🏗️ Soon to be Uploaded |
+| 02 | **File Handling** | IO Operations & Text Processing | 🏗️ Soon to be Uploaded |
+| 03 | **Mathematical Stuff**| NumPy (Creation, Slicing, Masking) | 🏗️ Soon to be Uploaded |
+| 04 | **Data Visualization**| MatPlotLib (Bar, Scatter, Histogram) | 🏗️ Soon to be Uploaded |
+| 05 | **Databases** | Pandas (Cleaning, Grouping, Merging) | 🏗️ Soon to be Uploaded |
+| 06 | **GUI Development** | Tkinter Basics | 🏗️ Soon to be Uploaded |
+| 07 | **Custom Modules** | Reusable Logic & Program Runs | 🏗️ Soon to be Uploaded |
 
 ---
 
