@@ -1,0 +1,18 @@
+How does NumPy work?
+NumPy provides a powerful N-dimensional array object, which is a fast and space-efficient alternative to Python lists.
+It supports a wide range of mathematical operations on arrays, including element-wise operations, linear algebra, 
+statistical operations, and more. This makes it a versatile tool for scientific computing.
+
+What happens behind the scenes?
+NumPy is implemented in C and Fortran, which allows it to perform operations much faster than pure Python.
+When you perform operations on NumPy arrays, the underlying C and Fortran code is executed, providing significant 
+performance improvements. This is because these languages are compiled and optimized for numerical computations.
+
+What differences does NumPy make?
+1. Performance: NumPy arrays are more compact and faster than Python lists, especially for large datasets. 
+   This is due to the contiguous memory allocation and the use of optimized C and Fortran libraries.
+2. Functionality: NumPy provides a wide range of mathematical functions and operations that are not available in 
+   standard Python. This includes support for multi-dimensional arrays, linear algebra, Fourier transforms, and random 
+   number generation.
+3. Ease of use: NumPy's syntax is designed to be intuitive and easy to use, making it a popular choice for scientific 
+   computing. It integrates well with other scientific libraries in Python, such as SciPy, Matplotlib, and Pandas.
