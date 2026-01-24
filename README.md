@@ -9,10 +9,10 @@ A chronological log of my journey into the Python ecosystem. Covering everything
 | 01 | **Fundamentals** | Loops, Dictionaries, Classes, Exceptions | ✅ Completed |
 | 02 | **File Handling** | IO Operations & Text Processing | ✅ Completed |
 | 03 | **Custom Modules** | Reusable Logic & Program Runs | ✅ Completed |
-| 04 | **Arithmatics**| NumPy (Creation, Slicing, Masking) | 🏗️ Soon to be Uploaded |
-| 05 | **Data Visualization**| MatPlotLib (Bar, Scatter, Histogram) | 🏗️ Soon to be Uploaded |
-| 06 | **Databases** | Pandas (Cleaning, Grouping, Merging) | 🏗️ Soon to be Uploaded |
-| 07 | **GUI Development** | Tkinter Basics | 🏗️ Soon to be Uploaded |
+| 04 | **Arithmatics**| NumPy (Creation, Slicing, Masking) | ✅ Completed |
+| 05 | **GUI Development** | Tkinter Basics | ✅ Completed |
+| 06 | **Data Visualization**| MatPlotLib (Bar, Scatter, Histogram) | 🏗️ Soon to be Uploaded |
+| 07 | **Databases** | Pandas (Cleaning, Grouping, Merging) | 🏗️ Soon to be Uploaded |
 ---
 
 ## 📂 Organizational Logic
