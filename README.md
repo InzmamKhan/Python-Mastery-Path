@@ -11,7 +11,7 @@ A chronological log of my journey into the Python ecosystem. Covering everything
 | 03 | **Custom Modules** | Reusable Logic & Program Runs | ✅ Completed |
 | 04 | **Arithmatics**| NumPy (Creation, Slicing, Masking) | ✅ Completed |
 | 05 | **GUI Development** | Tkinter Basics | ✅ Completed |
-| 06 | **Databases** | Pandas (Cleaning, Grouping, Merging) | 🏗️ Soon to be Uploaded |
+| 06 | **Databases** | Pandas (Cleaning, Grouping, Merging) | ✅ Completed |
 | 07 | **Data Visualization**| MatPlotLib (Bar, Scatter, Histogram) | 🏗️ Soon to be Uploaded |
 ---
 
