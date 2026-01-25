@@ -1,0 +1,16 @@
+Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
+It supports a wide variety of plots such as line plots, bar charts, scatter plots, histograms, and more.
+The library is highly customizable, integrates well with NumPy and Pandas, and provides both object-oriented and pyplot interfaces.
+Matplotlib is widely used for data analysis, scientific research, and creating publication-quality visualizations.
+
+Types of Plots : 
+1. Line Plot
+2. Scatter Plot
+3. Bar Plot
+4. Histogram
+5. Pie Chart
+6. Box Plot
+7. Violin Plot
+8. Heatmap
+9. Contour Plot
+10. 3D Plot
