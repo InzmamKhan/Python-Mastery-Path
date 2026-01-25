@@ -1,0 +1,52 @@
+What is Pandas?
+Pandas is an open-source data manipulation and analysis library for Python. It provides data structures and functions
+needed to manipulate structured data seamlessly. The primary data structures in Pandas are Series (1-dimensional) and
+DataFrame (2-dimensional), which are built on top of NumPy arrays. Pandas is widely used in data science, machine learning,
+and data analysis due to its powerful and flexible data manipulation capabilities.
+
+
+How does Pandas work?
+Pandas works by providing high-level data structures and functions designed to make data analysis fast and easy in Python.
+It leverages the power of NumPy for numerical operations and provides additional functionality for handling missing data,
+merging datasets, reshaping data, and more. Pandas allows for both in-memory and out-of-memory data processing, making it
+suitable for handling large datasets.
+
+
+What happens exactly behind the scenes?
+Behind the scenes, Pandas is built on top of NumPy, which means it inherits the performance benefits of NumPy's
+efficient array operations. When you perform operations on Pandas data structures, the underlying NumPy arrays are
+Manipulated, providing fast and efficient data processing. Pandas also uses Cython, a superset of Python that allows
+for C-like performance, to optimize critical code paths and improve performance further.
+
+
+What differences does Pandas make?
+1. Data Structures: Pandas provides powerful data structures like Series and DataFrame that make it easy to manipulate
+   and analyze data. These data structures are designed to handle both numerical and categorical data efficiently.
+
+2. Data Cleaning: Pandas offers a wide range of functions for handling missing data, detecting and removing duplicates,
+   and transforming data. This makes it easier to prepare data for analysis.
+
+3. Data Transformation: Pandas provides functions for reshaping data, merging and joining datasets, and applying
+   custom functions to data. This allows for flexible and powerful data transformations.
+
+4. Performance: Pandas is built on top of NumPy and uses Cython to optimize performance-critical code paths. This
+   ensures that data manipulation operations are fast and efficient.
+
+5. Integration: Pandas integrates well with other scientific libraries in Python, such as NumPy, SciPy, Matplotlib,
+   and scikit-learn. This makes it a versatile tool for data analysis and machine learning workflows.
+
+
+Other important terms:
+1. Series: A one-dimensional labeled array capable of holding any data type. It is similar to a column in a spreadsheet.
+
+2. DataFrame: A two-dimensional labeled data structure with columns of potentially different data types. It is similar
+   to a table in a database or a spreadsheet.
+
+3. Indexing: Pandas provides powerful indexing capabilities to access and manipulate data. This includes label-based
+   indexing with loc, integer-based indexing with iloc, and boolean indexing.
+
+4. GroupBy: The groupby function in Pandas allows for splitting data into groups, applying a function to each group,
+   and combining the results. This is useful for aggregating and summarizing data.
+
+5. Time Series: Pandas provides robust support for working with time series data, including date range generation,
+   frequency conversion, and resampling.
