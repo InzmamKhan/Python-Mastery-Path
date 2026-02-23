@@ -7,7 +7,7 @@ A chronological log of my journey into the Python ecosystem. Covering everything
 | ID | Module / Topic | Focus Areas | Status |
 | :--- | :--- | :--- | :--- |
 | 01 | **Fundamentals** | Loops, Dictionaries, Classes, Exceptions | ✅ Completed |
-| 02 | **File Handling** | IO Operations & Text Processing | ✅ Completed |
+| 02 | **File Handling** | IO Operations & Text Processing | ✅ Completed | 
 | 03 | **Custom Modules** | Reusable Logic & Program Runs | ✅ Completed |
 | 04 | **Arithmatics**| NumPy (Creation, Slicing, Masking) | ✅ Completed | 
 | 05 | **GUI Development** | Tkinter Basics | ✅ Completed | 
