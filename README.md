@@ -22,4 +22,4 @@ To maintain perfect order:
 * Data files (CSVs) are kept within their respective module folders for portability.
 
 ---
-> "Mapping the transition from a Java background into the fluid world of Python."
+> "Mapping the transition from a Java background into the fluid world of Python." 
