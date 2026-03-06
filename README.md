@@ -15,7 +15,7 @@ A chronological log of my journey into the Python ecosystem. Covering everything
 | 07 | **Data Visualization**| MatPlotLib (Bar, Scatter, Histogram) | ✅ Completed |
 ---
  
-## 📂 Organizational Logic  
+## 📂 Organizational Logic   
 To maintain perfect order:
 * Folders are categorized by **Core Subject**.
 * Files are prefixed with numbers (e.g., `1. Bar Plot.py`) to preserve the sequence of learning.
