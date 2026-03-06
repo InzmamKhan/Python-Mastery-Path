@@ -14,7 +14,7 @@ A chronological log of my journey into the Python ecosystem. Covering everything
 | 06 | **Databases** | Pandas (Cleaning, Grouping, Merging) | ✅ Completed |
 | 07 | **Data Visualization**| MatPlotLib (Bar, Scatter, Histogram) | ✅ Completed |
 ---
-
+ 
 ## 📂 Organizational Logic  
 To maintain perfect order:
 * Folders are categorized by **Core Subject**.
